@@ -1,0 +1,39 @@
+[
+    {
+      "image": "./r.jpg",
+      "price": "250,000",
+      "address": "Main Stanza Lining Nr Resia Minas Mumbai",
+      "liked": false
+    },
+    {
+      "image": "./r2.webp",
+      "price": "300,000",
+      "address": "Oak String Hieghs Surat",
+      "liked": false
+    },
+    {
+      "image": "./bg1.jpg",
+      "price": "500,000",
+      "address": "789 Pine St",
+      "liked": false
+    },
+    {
+        "image": "./bg.jpg",
+        "price": "250,000",
+        "address": "Stanza Living Surat",
+        "liked": false
+      },
+      {
+        "image": "./new.jpg",
+        "price": "300,000",
+        "address": "Oak Striver Street Nr Mainika Vikas Nagar ",
+        "liked": false
+      },
+      {
+        "image": "./r4.webp",
+        "price": "500,000",
+        "address": "Pine City Nr Denmark Hieh Vadnagar",
+        "liked": false
+      }
+  ]
+  
